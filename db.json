@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "watch product",
+      "class": "watch",
+      "price": 33.99,
+      "image": "./assets/images/10.jpg"
+    },
+    {
+      "id": 2,
+      "title": "watch product",
+      "class": "watch",
+      "price": 24.99,
+      "image": "./assets/images/11.jpg"
+    },
+    {
+      "id": 3,
+      "title": "watch product",
+      "class": "watch",
+      "price": 29.99,
+      "image": "./assets/images/12.jpg"
+    },
+    {
+      "id": 4,
+      "title": "shirt product",
+      "class": "shirt",
+      "price": 14.99,
+      "image": "./assets/images/16.jpg"
+    },
+    {
+      "id": 5,
+      "title": "shirt product",
+      "class": "shirt",
+      "price": 10.99,
+      "image": "./assets/images/17.jpg"
+    },
+    {
+      "id": 6,
+      "title": "shirt product",
+      "class": "shirt",
+      "price": 11.99,
+      "image": "./assets/images/18.jpg"
+    },
+    {
+      "id": 7,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 34.99,
+      "image": "./assets/images/19.jpg"
+    },
+    {
+      "id": 8,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 42.99,
+      "image": "./assets/images/20.jpg"
+    },
+    {
+      "id": 9,
+      "title": "shoes product",
+      "class": "shoes",
+      "price": 31.99,
+      "image": "./assets/images/21.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Jacket product",
+      "class": "Jacket",
+      "price": 45.99,
+      "image": "./assets/images/22.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Jacket product",
+      "class": "Jacket",
+      "price": 39.99,
+      "image": "./assets/images/23.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Jacket product",
+      "class": "Jacket",
+      "price": 41.99,
+      "image": "./assets/images/24.jpg"
+    },
+    {
+      "id": 13,
+      "title": "bed product",
+      "class": "bed",
+      "price": 78.99,
+      "image": "./assets/images/1.jpg"
+    },
+    {
+      "id": 14,
+      "title": "bed product",
+      "class": "bed",
+      "price": 67.99,
+      "image": "./assets/images/2.jpg"
+    },
+    {
+      "id": 15,
+      "title": "bed product",
+      "class": "bed",
+      "price": 64.99,
+      "image": "./assets/images/7.jpg"
+    }
+  ]
+}
